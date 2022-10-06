@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map for esp32-tasker
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+taskCb                      KEYWORD1
+taskCb                      KEYWORD1
+BaseType_t                  KEYWORD1
+TaskHandle_t                KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+createTask                  KEYWORD2
+createTaskCore0             KEYWORD2
+createTaskCore1             KEYWORD2
+deleteTask                  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MINIMUM_STACK               LITERAL1
+LIGHT_STACK                 LITERAL1
+MEDIUM_STACK                LITERAL1
+HEAVY_STACK                 LITERAL1
+PRIO_IDLE                   LITERAL1
+PRIO_1                      LITERAL1
+PRIO_2                      LITERAL1
+PRIO_3                      LITERAL1
+PRIO_4                      LITERAL1
+PRIO_5                      LITERAL1
